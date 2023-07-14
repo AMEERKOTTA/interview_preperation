@@ -1,4 +1,4 @@
-Here are some common Python interview questions you may encounter:
+Here are some common Python interview questions you may encounter::
 
 1. What is Python? What are its key features?
 2. How is Python different from other programming languages?
